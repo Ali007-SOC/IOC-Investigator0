@@ -1,2 +1,5 @@
 # IOC-Investigator0
-Streamlit tool for extracting and analyzing hashes and external IPs from logs (with VirusTotal integration).
+
+أداة سويتها باستخدام Streamlit لتحليل الـ hashes و IPs من السجلات. متصلة بـ VirusTotal و AbuseIPDB عشان أشوف التهديدات بسرعة وأطلع تقارير HTML جاهزة للعرض.
+
+ملاحظة: لازم تحط مفاتيح API الخاصة فيك، سواء يدويًا أو في ملف .env. 
